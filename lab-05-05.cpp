@@ -24,9 +24,9 @@ int main () {
 //start the conditional statement
 		if (x % 2 == 0) { 
 
-			cout << "The number is divisible by 2..." << endl;}
+			cout << "The number is even..." << endl;}
 
-		else cout << "The number is not divisible by 2..." << endl;
+		else cout << "The number is odd..." << endl;
 
 //end
 		return 0;
