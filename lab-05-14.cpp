@@ -10,7 +10,7 @@ int main() {
 //declare variables
 int a, b, c;
 
-cout << "To check that the triangle specified by tou through mentioning it's three angles is valid or not..." << endl;
+cout << "To check that the triangle specified by you through mentioning it's three angles is valid or not..." << endl;
 
 cout << "====================================================================================" << endl;
 
